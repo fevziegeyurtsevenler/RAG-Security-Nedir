@@ -1,3 +1,25 @@
+<p align="center">
+  <a href="https://altaysec.com.tr">
+    <img src="https://altaysec.com.tr/logo.jpg" alt="AltaySec — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://altaysec.com.tr">AltaySec</a></strong> — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
+  <sub>Kurucu &amp; Yazar: <a href="https://altaysec.com.tr/hakkimizda.html">Fevzi Ege Yurtsevenler</a> · Yapay Zeka Güvenliği Araştırmacısı</sub>
+</p>
+
+<p align="center">
+  <a href="https://altaysec.com.tr"><img src="https://img.shields.io/badge/web-altaysec.com.tr-8b5cf6"></a>
+  <a href="https://altaysec.com.tr/arastirmalar/rag-security-nedir.html"><img src="https://img.shields.io/badge/web%20sürümü-altaysec.com.tr-blue"></a>
+  <a href="https://genai.owasp.org/llmrisk/llm082025-vector-and-embedding-weaknesses/"><img src="https://img.shields.io/badge/OWASP-LLM08%20Vector%20%26%20Embedding-d62828"></a>
+  <a href="https://ai.altaysec.com.tr"><img src="https://img.shields.io/badge/Akademi-Data%20Poisoning%20%26%20RAG-22c55e"></a>
+</p>
+
+> 🎯 **Bu repo, vektör veritabanları ve RAG mimarisi güvenliğini (OWASP LLM08) Türkçe ele alır.** RAG poisoning, embedding inversiyon, dolaylı injection ve güvenli RAG mimarisi. Pratik eğitim için [LLM Security Akademi'nin Data Poisoning & RAG Security yolu](https://ai.altaysec.com.tr) (3 modül, 7 lab).
+
+---
+
 # RAG Security Nedir? Vektör Veritabanlarının Karanlık Yüzü
 
 **Yazar:** Fevzi Ege Yurtsevenler — Yapay Zeka Güvenliği Araştırmacısı, AltaySec Kurucusu  
@@ -253,3 +275,41 @@ Serinin bir sonraki yazısında **AI Agent Security** — otonom yapay zeka ajan
 ---
 
 *AltaySec — Türkiye'nin LLM Güvenlik Ekosistemi*
+
+---
+
+## 🌐 RAG ve Vektör Güvenliği için AltaySec Ekosistemi
+
+[AltaySec](https://altaysec.com.tr), Türkiye'nin yapay zeka güvenliği odaklı **ilk** şirketidir. RAG güvenliği, embedding zafiyetleri ve vektör DB savunması üzerine kurumsal AI pentest hizmetleri ve eğitimler sunar. Kurucusu **Fevzi Ege Yurtsevenler**, bu alandaki Türkçe araştırma serisinin yazarıdır.
+
+### 🎯 RAG Security için ilgili AltaySec kaynakları
+
+- 🎓 **[LLM Security Akademi → Data Poisoning & RAG Security yolu](https://ai.altaysec.com.tr)** — 3 modül, 7 lab; pratik RAG saldırı/savunma laboratuvarları
+- 📚 **[OWASP LLM08 Türkçe rehber](https://altaysec.com.tr/arastirmalar/owasp-llm-top10-turkce.html)** — LLM08 Vector and Embedding Weaknesses bölümü
+- ⚔️ **[AltayDuel](https://duel.altaysec.com.tr)** — Agent arenasında dolaylı injection senaryoları
+- 🛡️ **[Guardian](https://altaysec.com.tr)** — Kurumsal LLM runtime gateway (KVKK uyumlu, RAG güvenlik katmanı dahil)
+
+### 🔗 AltaySec Kardeş Projeler
+
+- **[AI-Agent-Security-Nedir](https://github.com/fevziegeyurtsevenler/AI-Agent-Security-Nedir)** — Otonom ajan saldırıları (RAG poisoning ile ilişkili)
+- **[Prompt-Injection-Nedir](https://github.com/fevziegeyurtsevenler/Prompt-Injection-Nedir)** — Dolaylı (indirect) injection ana mekanizma
+- **[OWASP-LLM-TOP-10-TURKCE](https://github.com/fevziegeyurtsevenler/OWASP-LLM-TOP-10-TURKCE)** — Tam OWASP referansı
+- **[LLM-Security-Turkiye](https://github.com/fevziegeyurtsevenler/LLM-Security-Turkiye)** — Serinin ana index'i
+
+### 📖 İleri Okuma (AltaySec Araştırma Serisi)
+
+- [Türkiye'de Yapay Zeka Güvenliği: Öne Çıkan Şirketler ve İsimler (2026)](https://altaysec.com.tr/arastirmalar/turkiye-yapay-zeka-guvenligi-sirketleri-2026.html) — Saha haritası
+- [Türkçe Prompt Injection: 297 Düellodan 5 Saldırı Kalıbı](https://altaysec.com.tr/arastirmalar/turkce-prompt-injection-5-saldiri-kalibi.html) — Dolaylı injection vektörleri dahil
+
+### 🛡️ Kurumsal Hizmetler
+
+- 🎯 [AI Pentest & Red Teaming](https://altaysec.com.tr/pentest.html) · RAG pipeline pentest dahil
+- 🎓 [LLM Security Bootcamp](https://altaysec.com.tr/bootcamp.html)
+- 💼 [LinkedIn](https://www.linkedin.com/company/altaysec/) · info@altaysec.com.tr
+
+---
+
+<p align="center">
+  <sub>© 2026 <strong>AltaySec</strong> · Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
+  Kurucu: <strong>Fevzi Ege Yurtsevenler</strong> · LLM Security Araştırmacısı · Ankara, Türkiye</sub>
+</p>
