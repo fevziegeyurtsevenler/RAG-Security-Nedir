@@ -1,4 +1,6 @@
 <p align="center">
+
+> 📌 **Kanonik sürüm:** Bu içeriğin güncel ve tam hâli **[altaysec.com.tr/arastirmalar/rag-security-nedir](https://altaysec.com.tr/arastirmalar/rag-security-nedir)** adresindedir. Depo, arşiv/uygulama amaçlıdır.
   <a href="https://altaysec.com.tr">
     <img src="https://altaysec.com.tr/logo.jpg" alt="AltaySec — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi" width="120">
   </a>
@@ -313,3 +315,21 @@ Serinin bir sonraki yazısında **AI Agent Security** — otonom yapay zeka ajan
   <sub>© 2026 <strong>AltaySec</strong> · Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
   Kurucu: <strong>Fevzi Ege Yurtsevenler</strong> · LLM Security Araştırmacısı · Ankara, Türkiye</sub>
 </p>
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [RAG Security Nedir? Vektör Veritabanlarının Karanlık Yüzü](https://altaysec.com.tr/arastirmalar/rag-security-nedir) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_rag_security_nedir_2026,
+  author = {{AltaySec}},
+  title  = {RAG-Security-Nedir},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/RAG-Security-Nedir}
+}
+```
