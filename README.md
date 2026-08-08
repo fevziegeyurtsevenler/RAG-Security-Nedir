@@ -333,3 +333,7 @@ Serinin bir sonraki yazısında **AI Agent Security** — otonom yapay zeka ajan
   url    = {https://github.com/fevziegeyurtsevenler/RAG-Security-Nedir}
 }
 ```
+
+## Lisans
+
+Bu repo [CC BY 4.0](LICENSE) ile lisanslıdır.
